@@ -58,7 +58,7 @@ export default () => {
             <a href="https://www.linkedin.com/in/paaronespinoza/" target="_blank"><i className="fab fa-linkedin"></i></a>
             <a href="https://www.facebook.com/aaron.spinozapre" target="_blank"><i className="fab fa-facebook-f"></i></a>
             <a href="https://www.instagram.com/aaron_maiden666/" target="_blank"><i className="fab fa-instagram"></i></a>
-            <a href="" target="_blank"><i className="fab fa-github"></i></a>
+            <a href="https://github.com/aaron-ecr/airline-ticket-react.git" target="_blank"><i className="fab fa-github"></i></a>
 
 
           </div>
